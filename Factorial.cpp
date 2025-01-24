@@ -9,4 +9,5 @@ int main(){
         num = num*i;
     }
     cout << "The factorial of the number is: " << num << '\n';
+    return 0;
 }
